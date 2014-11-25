@@ -1,0 +1,235 @@
+.pagi li>a{
+    margin:0 auto;
+    text-align:center;
+    color:#fff;
+    background-color:#004693;
+
+    border-radius: 0px;
+}
+
+.pagi .active a{
+    margin:0 auto;
+    text-align:center;
+    color:#fff;
+    background-color:red;
+
+    border-radius: 0px;
+}
+.pagi{
+    width:100%
+}
+
+.pagi div{
+    width: 50%;
+    margin-left: 24%;
+
+
+
+}
+
+.categorias img{
+    width: 253px;
+    margin:23px;
+
+}
+.enviar{
+    color: #FFF;
+    background-color: #1C773D;
+    border: 0px;
+}
+.usuario{
+    width: 100%;
+}
+.contrasena{
+    width: 100%;
+
+}
+.registro{
+    margin: 20px 0px;
+    width: 70%;
+    height: 33px;
+    background-color: #1C773D;
+    color: #FFF;
+    border: 0px;
+}
+.formulario{
+    padding: 30px 0px;
+}
+.formulario1{
+    padding: 22px 0px;
+}
+.btnHistorial{
+    background-color: #1C773D;
+    padding: 10px;
+    margin: 0 auto;
+}
+.panelAzul{
+    background-color: #1C773D !important;
+}
+.panelAzul a{
+    color: #FFF;
+    font-size: 20px;
+    text-decoration: none;
+}
+.panelBlanco{
+    background-color: #FFF !important;
+}
+.panelBlanco a{
+    color: #1C773D;
+    font-size: 20px;
+    text-decoration: none;
+}
+.btnHistorial:hover{
+    background-color: #BF0026;
+}
+.btnHistorial a{
+    color: white;
+    text-decoration: none;
+    font-size: 16px;
+}
+.datos_user{
+    color: #FFF;
+    font-size: 20px;
+    margin: 10px 150px;
+}
+.redesociales{
+
+}	 
+/*Clases de Categorias*/
+.titulo{
+    font-size: 20px;
+    text-align: left;
+    color: #1C773D;
+    padding: 0px 35px;
+}
+.encabezado{
+    font-size: 20px;
+    color: #1C773D;
+}
+.linea{
+    height: 26px;
+    width: 95%;
+    background-image: url(../img/linea.png);
+    background-repeat: repeat-x;
+}
+.linea2{
+    height: 10px;
+    background-image: url(../img/linea2.png);
+    background-position: 0px -5px;
+}
+.carrito{
+    padding: 10px 0px;
+    margin-left: 15px;
+}
+.titulo_cc{
+    background-color: #1C773D;
+    color: #FFF;
+    font-size: 17px;
+    width: 94%;
+}
+.txt_cc{
+    text-align: justify;
+}
+.buscar{
+    width: 100%;
+}
+.buscar1{
+    width: 100% !important;
+}
+.confirmar{
+    text-align: right;
+    padding: 0px 0px;
+    background-color: #FFF;
+    color: #1C773D;
+    border: 2px solid #1C773D;
+    font-size: 17px;
+}
+.eliminar{
+    background-image: url(../img/eliminar_carrit.png);
+    background-repeat: no-repeat;
+    background-color: transparent;
+    width: 20px;
+    height: 30px;
+}
+.DIV1{
+    border: 2px solid #1C773D;
+
+}
+.detalles{
+    background-color: #1C773D;
+    color: #FFF;
+    font-size: 15px;
+    padding: 0px 10px;
+}
+.columna2{
+    padding: 20px 0px;
+}
+.encabezado{
+    font-size: 20px;
+    color: #1C773D;
+}
+
+.item_productos{
+    vertical-align: top;
+    display: inline-block;    
+    height: 300px;
+    width: 300px;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.item *{
+    display: block;
+}
+
+.item-imgs{    
+    max-width: 400px;
+    max-height: 150px;
+    margin: 0 auto;
+}
+
+.row{
+    text-align: center;
+}
+.titu{
+    text-align: left;
+    margin: 0px 30px;
+}
+.sku_producto{
+    font-size: 20px;
+    color: #1C773D;
+}
+.add_btn{
+    background-color: #1C773D;
+    color: #FFF;
+    font-size: 15px;
+}
+.btn:hover, .btn:focus {
+    color: #FFF !important;
+    text-decoration: none;
+}
+.borde{
+    border: 2px solid #1C773D;
+    width: 40%;
+}
+.atras{
+    padding: 50px 0px;
+    text-align: end;
+    color: #1C773D;
+    font-size: 25px;
+}
+.azul{
+    background-color: #f4f4f4;    
+}
+.linRi{
+    border-right: solid 1px #DDD;
+}
+.fontDis{
+    font-size: 16px;
+    padding: 7px 0px;
+    background-color: #dfeaf2;
+}
+.bgseccion{
+    background-color: #FFF;
+    padding: 10px 0 100px;
+}
